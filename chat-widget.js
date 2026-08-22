@@ -5,7 +5,7 @@
   v.onload = function() {
     window.voiceflow.chat.load({
       verify: {
-        projectID: '6a896dfb5fb7f09a24bcabad'
+        projectID: '6a5606df2901b669ad990604'
       },
       url: 'https://general-runtime.voiceflow.com',
       voice: {
